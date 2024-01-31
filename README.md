@@ -2,8 +2,8 @@
 
 <h2>Data Analytics Projects:</h2>
 
-- <b>Money in European Soccer</b>
-  - [Money in European Soccer]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/LuisAltuve/Money-in-European-Soccer))
+- <b>Web Scraping</b>
+  - [Money in European Soccer](https://github.com/LuisAltuve/Money-in-European-Soccer)
 
 <h2> Connect with me:</h2>
 
