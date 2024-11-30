@@ -5,6 +5,12 @@
 - <b>Web Scraping</b>
   - [Money in European Soccer](https://github.com/LuisAltuve/Money-in-European-Soccer)
   - [BLB Draft Analysis](https://github.com/LuisAltuve/BLB-Draft-Analysis)
+ 
+<h2>Data Science Projects:</h2>
+
+- <b>Machine Learning</b>
+  - [Neural Network with NumPy](https://github.com/LuisAltuve/Neural-Network-MNIST)
+
 
 <h2> Connect with me:</h2>
 
